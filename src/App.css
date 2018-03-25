@@ -1,0 +1,49 @@
+.App {
+  padding: 1rem;
+}
+
+.App h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.App code {
+  padding: .25rem;
+  background-color: #f0f0f0;
+  border-radius: .25rem;
+}
+
+.App .code-block {
+  display: block;
+  padding: 1rem;
+  margin: .5rem 0;
+}
+
+.App .code-block pre {
+  margin: 0;
+}
+
+.App .row {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.App .qr-code {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  font-size: 0.75rem;
+  font-family: monospace;
+  text-align: center;
+}
+
+.App .qr-code img {
+  display: block;
+  margin: 0 auto;
+}
+
+.App .btn {
+  font-size: 1rem;
+}
